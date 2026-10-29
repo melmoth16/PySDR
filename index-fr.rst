@@ -28,5 +28,6 @@ by :ref:`Dr. Marc Lichtman<author-chapter>`
    content-fr/sync
    content-fr/rds
    content-fr/doa
+   content-fr/phaser
    content-fr/pyqt
    content-fr/about_author
